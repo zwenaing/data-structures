@@ -1,8 +1,0 @@
-<application>
-  <component name="CodeStyleSchemesUIConfiguration">
-    <option name="RECENT_IMPORT_FILE_LOCATION" value="file:$USER_HOME$/Desktop/intellij-google-code-style.xml" />
-  </component>
-  <component name="RefactoringSettings">
-    <option name="INTRODUCE_FIELD_VISIBILITY" value="private" />
-  </component>
-</application>
